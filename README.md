@@ -1,24 +1,24 @@
-# Web Dev Starter Code
+# Lab 7 - CSS Layout
 
 ## Overview
 
-TODO: Write a project description
+This is a simple website that allows us to practice CSS layout, especially using flexbox, grids, positioning, and floats. 
+
+## Compiling and Running the Repository
+To run,
+
+1) Clone the repository
+2) In VSCode, if have the preview extension added, right click on index.html and click 'show preview'
+3) (optional) To view in localhost, 
+   1) open the terminal, 
+   2) type 'npm install'
+   3) type 'npm run'
+   4) open localhost:3000 in your browser
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- mdn web docs
+  - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction
+  - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+  - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
+  - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#sticky_positioning
